@@ -1,0 +1,31 @@
+
+.menu{
+background-color: darkgray;
+display: block;
+width: 1344px;
+height: 80px;
+align-items: center;
+gap: 59px;
+flex-shrink: 0;
+}
+
+.menu_tituto{
+
+}
+
+.menu_paragrafo1{
+
+}
+
+
+footer{
+  display: inline-flex;
+  padding: var(--Spacing-spacing-xl, 48px) var(--Spacing-spacing-3xl, 104px);
+  flex-direction: column;
+  justify-content:space-around;
+  align-items: flex-end;
+  gap: var(--Spacing-Border, 2px);
+  background-color: black;
+ color: white;
+
+  ;}
